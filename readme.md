@@ -4,11 +4,11 @@ DarkDock Market is an amazing darknet market that offers a wide range of goods a
 ## DarkDock Market Link:
 
 ```sh
-http://ddockkhsevtcwlpkl54x5zat3i564zsedfbvavmxvvgpnw5lpt44xxqd.onion
+http://ddockkvvqkxopir6xntu2k6jl4gwv6eafhdnvb4tdwtxpilsrxsgrjid.onion
 ```
-[<img src="/assets/visit-market.webp" width="200">](http://ddockkhsevtcwlpkl54x5zat3i564zsedfbvavmxvvgpnw5lpt44xxqd.onion)
+[<img src="/assets/visit-market.webp" width="200">](http://ddockkvvqkxopir6xntu2k6jl4gwv6eafhdnvb4tdwtxpilsrxsgrjid.onion)
 
-<a href="http://ddockkhsevtcwlpkl54x5zat3i564zsedfbvavmxvvgpnw5lpt44xxqd.onion"><img src="/assets/darkdock-preview.webp" alt="image" style="max-width: 100%;"><a>
+<a href="http://ddockkvvqkxopir6xntu2k6jl4gwv6eafhdnvb4tdwtxpilsrxsgrjid.onion"><img src="/assets/darkdock-preview.webp" alt="image" style="max-width: 100%;"><a>
 
 This is a strictly scientific and educational repository, the purpose of which is to give an idea of the world of the darkweb. We do not collect any commissions/kickbacks from market affiliate links. We are not affiliated with any legal entity and do not support illegal activities.
 
@@ -19,4 +19,4 @@ DarkDock burst onto the darknet scene in the autumn of 2023 and, thanks to some 
 
 To create an account, you just need to provide a unique username (not linked to any of your previous login details), a password (we suggest a random string of letters, numbers and special symbols) and a 6-digit withdrawal PIN.
 
-<a href="http://ddockkhsevtcwlpkl54x5zat3i564zsedfbvavmxvvgpnw5lpt44xxqd.onion"><img src="/assets/darkdock-login.webp" alt="image" style="max-width: 100%;"><a>  <a href="http://ddockkhsevtcwlpkl54x5zat3i564zsedfbvavmxvvgpnw5lpt44xxqd.onion"><img src="/assets/darkdock-register.webp" alt="image" style="max-width: 100%;"><a>
+<a href="http://ddockkvvqkxopir6xntu2k6jl4gwv6eafhdnvb4tdwtxpilsrxsgrjid.onion"><img src="/assets/darkdock-login.webp" alt="image" style="max-width: 100%;"><a>  <a href="http://ddockkvvqkxopir6xntu2k6jl4gwv6eafhdnvb4tdwtxpilsrxsgrjid.onion"><img src="/assets/darkdock-register.webp" alt="image" style="max-width: 100%;"><a>
